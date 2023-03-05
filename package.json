@@ -1,0 +1,29 @@
+{
+  "name": "register-and-invite-bot",
+  "version": "1.0.0",
+  "description": "register ve invite discord botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koderbilal/register-and-invite-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koderbilal/register-and-invite-bot/issues"
+  },
+  "homepage": "https://github.com/koderbilal/register-and-invite-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.0",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.41",
+    "ms": "^2.1.3",
+    "path": "^0.12.7"
+  }
+}
